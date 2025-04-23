@@ -17,3 +17,7 @@ env/
 logs/
 *.log
 *.sqlite3
+
+.aws-sam/
+
+samconfig.toml
